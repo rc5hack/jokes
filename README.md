@@ -9,6 +9,8 @@ Some especial programmers humour («программисты шутят»).
     - ``reboot`` - ``куищще``
     - ``WHERE`` - ``ЦРУКУ``
     - ``bash`` - ``ифыр``
+    - ``git`` - ``пше``
+    - ``github`` - ``пшерги``
   * Wrong cyrillic charset
     - ``Вопрос`` - ``бНОПНЯ``
     - ``Вопрос читал?`` - ``бНОПНЯ ВХРЮК?``
