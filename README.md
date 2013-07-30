@@ -15,3 +15,5 @@ Some especial programmers humour («программисты шутят»).
     - ``Вопрос`` - ``бНОПНЯ``
     - ``Вопрос читал?`` - ``бНОПНЯ ВХРЮК?``
     - ``Сергей`` - ``яЕПЦЕИ``
+  * Mistyped
+    - ``<input type="button" onlick="..." />``
