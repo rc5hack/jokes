@@ -21,3 +21,5 @@ Some especial programmers humour («программисты шутят»).
     - ``Сергей`` - ``яЕПЦЕИ``
   * Mistyped
     - ``<input type="button" onlick="..." />``
+  * Machine translation
+    - ``master/slave`` - ``барин/холоп``
