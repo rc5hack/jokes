@@ -15,6 +15,7 @@ Some especial programmers humour («программисты шутят»).
     - ``DNS`` - ``ВТЫ``
     - ``server`` - ``ыукмук``
     - ``vim`` - ``мшь``
+    - ``devel`` - ``вымуд``
   * Wrong cyrillic charset
     - ``Вопрос`` - ``бНОПНЯ``
     - ``Вопрос читал?`` - ``бНОПНЯ ВХРЮК?``
