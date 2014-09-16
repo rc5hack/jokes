@@ -16,6 +16,7 @@ Some especial programmers humour («программисты шутят»).
     - ``server`` - ``ыукмук``
     - ``vim`` - ``мшь``
     - ``devel`` - ``вымуд``
+    - ``ubuntu`` - ``гигтег``
   * Wrong cyrillic charset
     - ``Вопрос`` - ``бНОПНЯ``
     - ``Вопрос читал?`` - ``бНОПНЯ ВХРЮК?``
