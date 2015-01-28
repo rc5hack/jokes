@@ -27,3 +27,4 @@ Some especial programmers humour («программисты шутят»).
     - ``<input type="button" onlick="..." />``
   * Machine translation
     - ``master/slave`` - ``барин/холоп``
+    - ``502 Bad Gateway`` - ``502 плохие подворотни``
